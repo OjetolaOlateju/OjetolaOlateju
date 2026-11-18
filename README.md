@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Olateju Ojetola 👋
 
-<!--
-**OjetolaOlateju/OjetolaOlateju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data & Operations Analyst interested in using data, technology and structured processes to solve business problems.
 
-Here are some ideas to get you started:
+My experience combines hands-on data analytics training with practical experience in business operations, reporting, project coordination and workflow support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work With
+
+**Data & Analytics**
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Data Cleaning and Exploratory Data Analysis
+- Data Visualisation and Reporting
+
+**Business & Operations**
+- Operational Reporting
+- Project Tracking
+- Workflow Improvement
+- User Acceptance Testing (UAT)
+- Stakeholder Coordination
+- Executive Support
+
+## Featured Project
+
+### [Pizza Sales Analysis](https://github.com/OjetolaOlateju/Pizza-Sales-Analysis)
+
+Analysed 48,621 pizza sales records using Microsoft Excel to identify sales trends, customer preferences, product performance and business insights.
+
+## Currently Learning
+- Data Science through ALX
+- Building practical data projects
+- Strengthening my analytical and technical skills
+
+## Find Me Online
+
+- **Portfolio:** [View my portfolio](https://teal-nasturtium-dde9d0.netlify.app/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ojetolaolateju/)
+- **GitHub:** [OjetolaOlateju](https://github.com/OjetolaOlateju)
